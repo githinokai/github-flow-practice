@@ -1,2 +1,3 @@
 # github-flow-practice
-practice
+
+初めてのぷるりくえすとです！
